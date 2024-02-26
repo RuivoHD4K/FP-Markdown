@@ -2,7 +2,7 @@
 
 Diogo Nunes Ruivo
 
-**Liguagens de programação Conhecidas:**
+**Known Programming languages:**
 
 * C
 * Javascript
